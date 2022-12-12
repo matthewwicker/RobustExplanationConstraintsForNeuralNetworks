@@ -1,0 +1,8 @@
+alpha: 0.0
+dataset: ADULT
+epsilon: 0.0
+gamma: 0.0
+hidden_dim: 256
+hidden_lay: 2
+learning_rate: 0.001
+mode: L2
